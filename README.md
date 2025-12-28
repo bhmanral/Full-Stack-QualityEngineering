@@ -9,7 +9,9 @@
 - Basic Testing terms 
 - SDLC and SDLC models  
 - STLC and its types  
-- Selenium, Selenium Suite & some terms related to it 
+- Selenium, Selenium Suite & some terms related to it
+- Levels of Testing
+- Core Java
 
 ## 📝 About the Notes
 - These notes are handwritten and converted to digital format.
@@ -17,8 +19,10 @@
 - Based on my personal understanding of the course content.
 
 ## 🛠 Tools & Concepts
-- Java
-- Selenium
+- SDLC & STLC
+- Manual & Automation Testing Theory
+- Core Java
+- Selenium & Cucumber BDD, TDD
 - Rest soon to be uploaded
 
 ## ⚠️ Disclaimer
